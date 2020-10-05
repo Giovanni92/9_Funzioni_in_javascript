@@ -18,3 +18,6 @@
 //Questa sintassi si usa quando non si vuole contaminare l'oggetto window o creare effetti collaterali suil codice, creando un luogo privato dove creare variabili che non intacchino l'esterno
 
 console.log(typeof iife);   //*typeof undefinied
+
+
+
